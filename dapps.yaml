@@ -1,0 +1,4 @@
+- name: NEARswap (beta)
+  version: 0.2
+  dapp: https://siasky.net/AABhZRDpO4t_9tX5wBlyhFHw96ruEbDgQ52fbsdOMuCXVA/
+  projectURL: https://github.com/near-clp/nearswap-ui
