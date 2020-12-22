@@ -2,7 +2,15 @@
 
 This repository contains list of tokens for NEAR dapps.
 
-Notable, the list is used for NEARswap.
+Notable, the list is used by NEARswap.
+
+## Contribute
+
+If you want to have your token listed in a dapp which utilizes this list, please edit  one of the files below.
+If you want to list you dapp, please edit [dapps.yaml](./dapps.yaml) file.
+
+Create a pull request, and proove in a description the validity of your dapp or token.
+
 
 ## Organization
 
